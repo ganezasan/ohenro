@@ -1,0 +1,66 @@
+dependencies: \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneProxy.m \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiBase.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiThreading.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiPublicAPI.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiEvaluator.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/KrollContext.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/KrollCallback.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/KrollObject.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUtils.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiColor.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiDimension.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/WebFont.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiFile.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiBuffer.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiBlob.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiApp.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiHost.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/Bridge.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiStylesheet.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/KrollBridge.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiModule.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/XHRBridge.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiRootViewController.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiRootController.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiWindowProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiViewProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIView.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiAnimation.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiPoint.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/ListenerEntry.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/LayoutConstraint.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiGradient.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiRect.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiTab.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiTabGroup.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIWindow.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiViewController.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneAnimationStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneStatusBarProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneRowAnimationStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneSystemButtonStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneSystemButtonProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneProgressBarStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneActivityIndicatorStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneSystemIconProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneScrollIndicatorStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneTableViewStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneTableViewSeparatorStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneTableViewScrollPositionProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneTableViewCellSelectionStyleProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneNavigationGroupProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPadProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPadPopoverProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPadSplitWindowProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/build/iphone/Classes/TiUIiPhoneAlertDialogStyleProxy.h

@@ -1,0 +1,1 @@
+/Users/itoutakayuki/Documents/repo/ohenro/src/client/titanium/Resources/sha1.js
